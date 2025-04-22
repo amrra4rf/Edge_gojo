@@ -1,3 +1,3 @@
 # Edge_gojo
-we will take about the sunrsie
+we will talk about the sunrsie
 ## Embedded Project xd
